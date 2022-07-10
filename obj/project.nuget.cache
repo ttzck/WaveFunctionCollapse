@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xOmBJR0cD2n1NN3tw4hFTawQyL3Yoq9c2LRBwVOZJhr/YPedSCxtXOG81dnNYWf0tvBuK5gPe5gywWWecvHH8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jnttz\\WaveFunctionCollapse\\WaveFunctionCollapse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jnttz\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\jnttz\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\jnttz\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -43,6 +43,7 @@ abstract class Model
 
     void Init()
     {
+        Console.WriteLine("Init");
         wave = new bool[MX * MY][];
         compatible = new int[wave.Length][][];
         for (int i = 0; i < wave.Length; i++)
@@ -85,6 +86,7 @@ abstract class Model
 
         for (int l = 0; l < limit || limit < 0; l++)
         {
+            Console.WriteLine($"{l}/{MX * MY}");
             int node = NextUnobservedNode(random);
             if (node >= 0)
             {
